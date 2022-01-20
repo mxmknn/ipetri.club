@@ -13,6 +13,8 @@ a:hover{
 	padding: 15px;
 	text-decoration: none;
 	color: white;
+	box-shadow:  7px 7px 5px  #4682B4;
+	transition: 0.5s ease-in;
 }
 .b{
 	font-size: 30px;
